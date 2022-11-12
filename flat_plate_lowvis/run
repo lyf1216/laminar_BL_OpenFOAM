@@ -1,0 +1,7 @@
+blockMesh
+icoFoam > log &
+cat log
+touch flat_plate_loxvis.foam
+
+
+
